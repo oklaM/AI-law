@@ -2,8 +2,6 @@
 
 It's for a research for AI and law
 
-## related work from others
-
 ### github项目
 
 1. https://github.com/liuhuanyong/LawCrimeMining
@@ -18,8 +16,6 @@ Awesome Law NLP Research Work, Paper, Competition, Project, Onlline System
 
 4. https://github.com/thunlp/LegalPapers
 大佬列出的法律必读论文
-
-## my work
 
 ### 竞赛
 
@@ -98,6 +94,18 @@ Robert
 
    * 本文提出了Calculemus方法，去构建一个形式化的框架Formal Language for the INTerpretation of sources of norms (FLINT). The frames are act frames, duty frames, and fact frames.并针对Catholic Marriage案例进行了研究。（FLINTJ今年年末发表）
 
+NAACL
+
+1. Interpretable Charge Predictions for Criminal Cases:
+Learning to Generate Court Views from Fact Descriptions
+
+   * a new task for natural language generation (NLG) problem
+   * [github](https://github.com/oceanypt/Court-View-Gen)只有数据
+
+2. Event Identification as a Decision Process with Non-linear Representation of Text
+
+   * 本文通过学习整片文章，区分出有事件的句子。模型将词、句子、自然段一起进行记忆，加上控制器，在状态更新时生成标签。
+
 ACL  
 
 EMNLP
@@ -125,8 +133,26 @@ A Test Collection for Evaluating Legal Case Law Search.[PDF](https://dl.acm.org/
 中国司法大数据研究院：智能诉讼评估，根据问题，起诉状，或描述生成评估报告。
 
 2. 法律小崇（微信小程序）
+   
 3. 法狗狗（微信小程序）
+   
 4. 法立方AI（微信小程序）
+   
+5. 法信(智答版), 人民法院出版集团、中国司法大数据研究院和北京国双科技有限公司， ---> [法信(智答版)]
+
+6. 觅律搜索, 北京幂律智能科技有限责任公司， ---> [觅律so.legal]
+
+7. 度小法---法律智库, 百度， ---> [度小法]
+
+8. 北大法宝, 北京北大英华科技有限公司、北京大学法制信息中心， ---> [北大法宝]
+
+9.  法律智能判决系统, 黑龙江大学自然语言处理实验室， ---> [法律智能判决系统]
+
+10. 法小飞, 哈工大讯飞联合实验室， ---> [法小飞-微信公众号]
+
+11. 秘塔翻译及智能检索, 秘塔科技， ---> [秘塔翻译及智能检索]
+
+12. 包小黑法律咨询, 杭州实在智能科技有限公司， ---> [包小黑法律咨询]
 
 ### 专利
 
