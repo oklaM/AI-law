@@ -73,47 +73,43 @@ Entails（S1，S2，...，Sn，Q）或Entails（S1，S2，...，Sn，不是Q）�
 
 ### 论文
 
-ICAIL2019
-
-Long
-
-1. Semi-Supervised Methods for Explainable Legal Prediction
+1. Semi-Supervised Methods for Explainable Legal Prediction (ICAIL2019)
    * 16,024 World Intellectual Property Organization (WIPO) domain name dispute cases
    * the decision is “transferred” or “not transferred.”
    * 这篇文章分析了目标案件的特征，制定了schema用The MITRE Annotation Toolkit自动标记。
-2. Why Machine Learning May Lead to Unfairness: Evidence from Risk Assessment for Juvenile Justice in Catalonia
+2. Why Machine Learning May Lead to Unfairness: Evidence from Risk Assessment for Juvenile Justice in Catalonia (ICAIL2019)
    * 观察了4753名加泰罗尼亚青少年，他们在2002年至2010年期间犯罪，其累犯行为于2013年和2015年记录。SAVRY评估仅适用于855名被告。
    * SAVRY(the Structured Assess- ment of Violence Risk in Youth)，少年司法专业人员将严重性（低，中，高）的三级编码结构得分分配给24种危险因素和6种保护因素
    * logit mlp knn lsvm rsvm nb rf
    * 它表明，使用年龄，性别，国家/地区等特征来预测犯罪累犯会导致不公平。
 
-Short
-
-1. The False, the Former, and the Parish Priest
+3. The False, the Former, and the Parish Priest (ICAIL2019)
 Robert
 
    * 本文提出了Calculemus方法，去构建一个形式化的框架Formal Language for the INTerpretation of sources of norms (FLINT). The frames are act frames, duty frames, and fact frames.并针对Catholic Marriage案例进行了研究。（FLINTJ今年年末发表）
 
-NAACL
-
-1. Interpretable Charge Predictions for Criminal Cases:
-Learning to Generate Court Views from Fact Descriptions
+4. Interpretable Charge Predictions for Criminal Cases:
+Learning to Generate Court Views from Fact Descriptions (NAACL2018)
 
    * a new task for natural language generation (NLG) problem
    * [github](https://github.com/oceanypt/Court-View-Gen)只有数据
 
-2. Event Identification as a Decision Process with Non-linear Representation of Text
+5. Event Identification as a Decision Process with Non-linear Representation of Text (NAACL)
 
    * 本文通过学习整片文章，区分出有事件的句子。模型将词、句子、自然段一起进行记忆，加上控制器，在状态更新时生成标签。
 
-ACL  
-
-EMNLP
-
-1. Legal Judgment Prediction via Topological Learning
+6. Legal Judgment Prediction via Topological Learning (EMNLP2018)
    * 本文构建对（事实描述、法条、罪名、刑期）等子任务构建DAG图，提出了TOPJUDGE的框架，分析出（罪名依赖法条，刑期依赖法条和罪名）的依赖关系。
    * 数据：CJO,PKU,CAIL
    * [github](https://github.com/thunlp/TopJudge)
+
+7. Charge-Based Prison Term Prediction with Deep Gating Network (	EMNLP2019 )[PDF](https://arxiv.org/pdf/1908.11521.pdf)
+   * 本文提出了根据罪名预测刑期，因为现实中有很多案例里有多个罪名，而现有的一些模型都是预测总的刑期，所以根据不同的罪名预测刑期会比较现实一些。
+   * 本文公开了一个[数据集]( https://github.com/huajiechen/CPTP )
+   * 本文提出了一个模型：Deep Gating Network
+
+8. Legal Judgment Prediction via Multi-Perspective Bi-Feedback Network (IJCAI2019) [PDF](https://arxiv.org/pdf/1905.03969.pdf)
+   * 本文将刑事预测的3个子任务法条预测、罪名预测、刑期预测进行分析，组织topology关系，并对输出进行多种方式结合，并且加上数字的Attention机制。
 
 ### 数据集
 
