@@ -113,7 +113,7 @@ Learning to Generate Court Views from Fact Descriptions (NAACL2018)
 
 ### 数据集
 
-ECHR Dataset - ACL 2019
+ECHR Dataset - ACL 2019[PDF](https://arxiv.org/pdf/1906.02059.pdf)
 
 Neural Legal Judgment Prediction in English[PDF](https://arxiv.org/pdf/1906.02059.pdf)
 
@@ -123,9 +123,13 @@ Large-Scale Multi-Label Text Classification on EU Legislation.[PDF](https://arxi
 
 A Test Collection for Evaluating Legal Case Law Search.[PDF](https://dl.acm.org/citation.cfm?id=3210161)
 
+### 法律知识图谱
+
+1. [爱图谱](http://www.neukg.com/)
+
 ### 软件产品
 
-1. http://data.court.gov.cn/pages/litigation.html
+1. [](http://data.court.gov.cn/pages/litigation.html)
 中国司法大数据研究院：智能诉讼评估，根据问题，起诉状，或描述生成评估报告。
 
 2. 法律小崇（微信小程序）
@@ -134,26 +138,25 @@ A Test Collection for Evaluating Legal Case Law Search.[PDF](https://dl.acm.org/
    
 4. 法立方AI（微信小程序）
    
-5. 法信(智答版), 人民法院出版集团、中国司法大数据研究院和北京国双科技有限公司， ---> [法信(智答版)]
+5. 法信(智答版), 人民法院出版集团、中国司法大数据研究院和北京国双科技有限公司， ---> [法信(智答版)](http://www.lawiask.com/#/)
 
-6. 觅律搜索, 北京幂律智能科技有限责任公司， ---> [觅律so.legal]
+6. 觅律搜索, 北京幂律智能科技有限责任公司， ---> [觅律so.legal](https://solegal.cn/)
 
-7. 度小法---法律智库, 百度， ---> [度小法]
+7. 度小法---法律智库, 百度， ---> [度小法](https://duxiaofa.baidu.com/)
 
-8. 北大法宝, 北京北大英华科技有限公司、北京大学法制信息中心， ---> [北大法宝]
+8. 北大法宝, 北京北大英华科技有限公司、北京大学法制信息中心， ---> [北大法宝](http://www.pkulaw.cn/)
 
-9.  法律智能判决系统, 黑龙江大学自然语言处理实验室， ---> [法律智能判决系统]
+9.  法律智能判决系统, 黑龙江大学自然语言处理实验室， ---> [法律智能判决系统](http://47.95.219.130/)
 
 10. 法小飞, 哈工大讯飞联合实验室， ---> [法小飞-微信公众号]
 
-11. 秘塔翻译及智能检索, 秘塔科技， ---> [秘塔翻译及智能检索]
+11. 秘塔翻译及智能检索, 秘塔科技， ---> [秘塔翻译及智能检索](https://metaso.cn/#/)
 
-12. 包小黑法律咨询, 杭州实在智能科技有限公司， ---> [包小黑法律咨询]
+12. 包小黑法律咨询, 杭州实在智能科技有限公司， ---> [包小黑法律咨询](https://110.ai-indeed.com/)
 
 ### 专利
 
-1. https://patentimages.storage.googleapis.com/9f/c6/fb/ced1e1e894be69/CN107122444A.pdf
-中华人民共和国知识产权局 2017.09.01：一种法律知识图谱构建的方法。
+1. 中华人民共和国知识产权局 2017.09.01：一种法律知识图谱构建的方法。
 
    * 主题词-主题关系-主题词
    * 主题词-相近关系-相近词
