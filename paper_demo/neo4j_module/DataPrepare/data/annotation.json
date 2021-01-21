@@ -1,0 +1,138 @@
+{
+  "labelCategories": [{
+      "categoryID": 3,
+      "text": "行为",
+      "fillColor": "#0000FF",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 6,
+      "text": "人员",
+      "fillColor": "#666600",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 7,
+      "text": "文件",
+      "fillColor": "#FFCC00",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 8,
+      "text": "代词",
+      "fillColor": "#CCFF00",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 9,
+      "text": "特征",
+      "fillColor": "#669900",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 10,
+      "text": "事项",
+      "fillColor": "#CC9999",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 11,
+      "text": "时间",
+      "fillColor": "#0000FF",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 12,
+      "text": "数值",
+      "fillColor": "#000099",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 14,
+      "text": "指标",
+      "fillColor": "#003399",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 13,
+      "text": "否定词",
+      "fillColor": "#999999",
+      "fontColor": "black"
+    }
+  ],
+  "connectionCategories": [{
+      "categoryID": 1,
+      "text": "与",
+      "fillColor": "#FF0000",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 2,
+      "text": "或",
+      "fillColor": "#00FF00",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 3,
+      "text": "应当",
+      "fillColor": "#0000FF",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 4,
+      "text": "可以",
+      "fillColor": "#0000FF",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 5,
+      "text": "不能",
+      "fillColor": "#CCCCCC",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 6,
+      "text": "条件为",
+      "fillColor": "#0000FF",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 7,
+      "text": "是一种",
+      "fillColor": "#CCFFCC",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 8,
+      "text": "定义为",
+      "fillColor": "#FFCCCC",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 9,
+      "text": "指代",
+      "fillColor": "#66CCCC",
+      "fontColor": "black"
+    },
+    {
+      "categoryID": 11,
+      "text": "同义词",
+      "fillColor": "#9999FF",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 12,
+      "text": "作用于",
+      "fillColor": "#CC9933",
+      "fontColor": "white"
+    },
+    {
+      "categoryID": 13,
+      "text": "子属性为",
+      "fillColor": "#CCFFCC",
+      "fontColor": "black"
+    }
+  ],
+  "whiteList": [],
+  "blackList": []
+}
