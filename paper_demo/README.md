@@ -44,3 +44,14 @@ python test.py
 # 通过X(规则的正确性结果及其总分) 预测结果y(公司的上市阶段)的数据
 python get_score.py
 ```
+
+# 引用
+```
+@thesis{基于法律知识推理对科创板上市审核结果的预测,
+  title={基于法律知识推理对科创板上市审核结果的预测},
+  institution = {上海交通大学},
+  location    = {上海},
+  author={马振文},
+  year={2021}
+}
+```
